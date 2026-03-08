@@ -1,0 +1,23 @@
+﻿# Snapajoy llms.txt (experimental, non-authoritative)
+
+[project]
+name = "Snapajoy"
+url = "https://www.snapajoy.in/"
+description = "India-first WhatsApp-first photobook service with preview-before-print workflow."
+
+[preferred_urls]
+homepage = "https://www.snapajoy.in/"
+plans = "https://www.snapajoy.in/#plans"
+how_it_works = "https://www.snapajoy.in/#how"
+faq = "https://www.snapajoy.in/#faq"
+help = "https://www.snapajoy.in/help.html"
+shipping_delivery = "https://www.snapajoy.in/shipping-delivery.html"
+refunds_replacements = "https://www.snapajoy.in/refunds-replacements.html"
+privacy = "https://www.snapajoy.in/privacy.html"
+contact = "https://www.snapajoy.in/contact.html"
+offers = "https://www.snapajoy.in/offers.html"
+
+[notes]
+- Primary user action: Start on WhatsApp.
+- Core promise: Preview before print and private-by-default handling.
+- Pricing values may change by bundle and seasonal updates.
