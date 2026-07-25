@@ -45,13 +45,14 @@ Public copy can use these facts, but phrase price and process copy with "from" a
 Snapajoy can publicly claim:
 
 - The first album/video preview is free.
+- Preferred public framing: "Get a free video feel of your album before you place the order."
 - Customers can change size and page count before confirm and pay.
 - Customers can delete photos anytime by typing "help" in WhatsApp.
 - Snapajoy delivers across India.
 - Books ship in about 1 week after customer approval.
 - Customers receive the book within 2 weeks after customer approval.
 
-Use these promises on the homepage, how-it-works page, pricing page, shipping/delivery page, and FAQ. Keep the sequence clear: send photos, choose size and pages, review the free preview, edit on WhatsApp or web, confirm and pay, approve for print, ship in about 1 week, then receive the book within 2 weeks after approval.
+Use these promises on the homepage, how-it-works page, pricing page, shipping/delivery page, and FAQ. Keep the sequence clear: send photos, choose size and pages, get a free video feel of the album, edit on WhatsApp or web, place the order, approve for print, ship in about 1 week, then receive the book within 2 weeks after approval.
 
 ## What Whitebook Covers Well
 
@@ -118,6 +119,7 @@ Do not claim personalized spine text until confirmed. Use "personalized title" f
 Use the claims as trust proof, not as a dense spec block:
 
 - Hero proof pills: "Premium printed photo books", "Preview before print", "Start on WhatsApp".
+- Hero trust line: "Get a free video feel of your album before you place the order."
 - Trust strip: "Hardcover binding", "Non-tearable pages", "Spill-safe pages", "Fade-resistant pages".
 - Quality proof section: show real printed-book close-ups with captions for hardcover, page finish, and open spreads.
 - Final CTA/FAQ preview: mention personalized title only if the flow asks for a title before or during design.
@@ -296,7 +298,7 @@ Use only the strongest details:
 - Sizes: show "8 x 6, 8 x 8, and 10 x 10 in options" with from-prices where pricing belongs.
 - Binding: one short line about hardcover layflat. Mention absolute layflat only after the production difference is confirmed.
 - Quality: one proof-led block with real close-up images.
-- Process: start on WhatsApp, send photos, get a free preview, edit, confirm and pay, print.
+- Process: start on WhatsApp, send photos, get a free video feel of the album, edit, place the order, approve for print.
 - Delivery: "Ships in about 1 week. Delivered across India within 2 weeks after approval."
 - Editor: "Want detailed changes? Open the web editor after your first design."
 - FAQ: quality, edits, payment, privacy, delivery.
@@ -336,7 +338,7 @@ Suggested rows:
 
 - Creation path: WhatsApp-guided start, web editor for advanced edits.
 - Design quality: unique layout support and human-guided design.
-- Preview: first design, edits, approve before print.
+- Preview: free video feel before order, edits, approve before print.
 - Print quality: real printed-book proof, paper/binding details after confirmation.
 - Memory fit: family yearbooks, baby milestones, travel, weddings, festivals.
 - Ease for Indian families: no new app required to start.
@@ -349,7 +351,7 @@ Why choose Snapajoy over an ordinary photo book or album?
 
 Draft answer:
 
-Snapajoy combines the ease of WhatsApp with the finish of a designed photo book. You can send photos, get a first design, request edits, approve before print, and use the web editor when you want more control. Replace this with final copy after product facts are confirmed.
+Snapajoy combines the ease of WhatsApp with the finish of a designed photo book. You can send photos, get a free video feel of your album before placing the order, request edits, approve before print, and use the web editor when you want more control. Replace this with final copy after product facts are confirmed.
 
 ### Pricing Page
 
@@ -358,7 +360,7 @@ Purpose: decision support.
 Add:
 
 - Pricing table by size: 8 x 6 in from Rs 1250, 8 x 8 in from Rs 1650, and 10 x 10 in from Rs 3250.
-- What is included: first design, edits, preview, print, delivery, support.
+- What is included: free album/video preview, edits before approval, print, delivery, support.
 - Extra page rules.
 - Payment timing.
 - Shipping and delivery notes: ships in about 1 week and delivers across India within 2 weeks after approval.
@@ -387,7 +389,7 @@ Add:
 - Web editor for advanced changes.
 - Review and edits.
 - Approval before print.
-- Free album/video preview before payment.
+- Free video feel of the album before order.
 - Size and page-count changes before confirm and pay.
 - Confirm and pay after preview and edits.
 - Approval for print.
@@ -476,6 +478,7 @@ Answer these before final page copy:
 24. Can Snapajoy offer a reprint, replacement, or refund promise for print defects and delivery damage?
 25. Does Snapajoy include packaging or gift-ready presentation as a standard feature?
 26. Answered: Snapajoy can publicly say the first album/video preview is free.
+    Preferred wording: "Get a free video feel of your album before you place the order."
 27. Answered: Snapajoy can publicly say customers can change size and page count before confirm and pay.
 28. Answered: Snapajoy can publicly say customers can delete photos anytime by typing "help" in WhatsApp.
 29. Answered: Snapajoy can publicly say it offers pan-India delivery.
@@ -488,6 +491,10 @@ Use these after facts are confirmed:
 ### Short Product Definition
 
 Snapajoy turns phone photos into printed photo books for family memories, milestone years, travel, weddings, babies, festivals, and gifts. Start on WhatsApp, review your first design, make edits, and approve before print.
+
+### Free Preview Promise
+
+Get a free video feel of your album before you place the order. Review the story, layout, and flow, then ask for edits on WhatsApp or continue with advanced edits on the web.
 
 ### Size Guide Placeholder
 
