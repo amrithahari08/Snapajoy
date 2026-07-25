@@ -40,6 +40,16 @@ Confirmed from the guide:
 
 Public copy can use these facts, but phrase price and process copy with "from" and "before final confirmation" so the website does not overpromise edge cases.
 
+## Confirmed Process Promises
+
+Snapajoy can publicly claim:
+
+- The first album/video preview is free.
+- Customers can change size and page count before confirm and pay.
+- Customers can delete photos anytime by typing "help" in WhatsApp.
+
+Use these promises on the homepage, how-it-works page, pricing page, and FAQ. Keep the payment sequence clear: send photos, choose size and pages, review the free preview, edit on WhatsApp or web, then confirm and pay.
+
 ## What Whitebook Covers Well
 
 Whitebook places product details in buyer-friendly chunks:
@@ -242,7 +252,8 @@ Need confirmation:
 - Whether shipping is included.
 - Whether edits are included.
 - Whether advanced web-editor edits affect price.
-- Exact payment timing and any exception cases. The guide shows confirm and pay after free album/video preview and edits.
+- Confirmed public sequence: customers confirm and pay after the free album/video preview and edits.
+- Need confirmation: any exception cases, partial-payment cases, or large-order payment rules.
 
 ### Delivery
 
@@ -369,7 +380,9 @@ Add:
 - Web editor for advanced changes.
 - Review and edits.
 - Approval before print.
-- Confirm and pay after preview and edits, with exception details if any.
+- Free album/video preview before payment.
+- Size and page-count changes before confirm and pay.
+- Confirm and pay after preview and edits.
 - Production and delivery.
 
 ### Help And FAQ
@@ -438,7 +451,7 @@ Answer these before final page copy:
 12. Are edits free, limited, or priced after a threshold?
 13. Does the web editor exist at `/editor`, and what actions can customers do there?
 14. When does the customer pay?
-    Partially answered: the guide shows confirm and pay after the free preview and edits. Confirm exception cases before writing payment-policy copy.
+    Answered: customers confirm and pay after the free preview and edits. Confirm only exception cases, partial-payment cases, or large-order rules.
 15. Can Snapajoy promise that photos are never used for marketing without consent?
 16. Can Snapajoy publicly say "professional photobook production" without naming the vendor?
 17. Do Snapajoy shipments include any authenticity cards, QR codes, or product verification labels? If yes, should the site ignore them or describe them without naming the vendor?
@@ -450,6 +463,9 @@ Answer these before final page copy:
 23. Answered: Snapajoy can use non-tearable, spill-safe, and fade-resistant page claims.
 24. Can Snapajoy offer a reprint, replacement, or refund promise for print defects and delivery damage?
 25. Does Snapajoy include packaging or gift-ready presentation as a standard feature?
+26. Answered: Snapajoy can publicly say the first album/video preview is free.
+27. Answered: Snapajoy can publicly say customers can change size and page count before confirm and pay.
+28. Answered: Snapajoy can publicly say customers can delete photos anytime by typing "help" in WhatsApp.
 
 ## Draft Product Copy Building Blocks
 
