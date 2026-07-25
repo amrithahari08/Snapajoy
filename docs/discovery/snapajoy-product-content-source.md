@@ -56,6 +56,82 @@ Do not claim Canvera-specific manufacturing details, cities served, photographer
 
 ## Product Facts To Confirm
 
+## Confirmed Quality Claims
+
+Snapajoy can publicly claim:
+
+- Premium printed photo books.
+- Professional photobook production.
+- Non-tearable pages.
+- Spill-safe pages.
+- Fade-resistant pages.
+- Hardcover binding.
+- Personalized title.
+
+Do not claim personalized spine text until confirmed. Use "personalized title" for now.
+
+## Confirmed Quality Claim Placement
+
+### Homepage
+
+Use the claims as trust proof, not as a dense spec block:
+
+- Hero proof pills: "Premium printed photo books", "Preview before print", "Start on WhatsApp".
+- Trust strip: "Hardcover binding", "Non-tearable pages", "Spill-safe pages", "Fade-resistant pages".
+- Quality proof section: show real printed-book close-ups with captions for hardcover, page finish, and open spreads.
+- Final CTA/FAQ preview: mention personalized title only if the flow asks for a title before or during design.
+
+### Photo Books Page
+
+Use this page for the full product explanation:
+
+- Add a "Quality and materials" section with all confirmed claims.
+- Add a "Hardcover photo books" subsection.
+- Add a "Pages built for family handling" subsection for non-tearable, spill-safe, and fade-resistant pages.
+- Add a "Personalized title" subsection with image placement for cover-title examples.
+- Pair these claims with sizes, binding, and photo-quality guidance.
+
+### Snapajoy Vs Ordinary Photo Books And Albums
+
+Use confirmed claims in the comparison table:
+
+- Snapajoy: premium printed photo books, professional photobook production, hardcover binding, non-tearable pages, spill-safe pages, fade-resistant pages, personalized title, WhatsApp-guided design, advanced web editor.
+- Ordinary online photo book: user-led editor, quality varies by provider, less guided layout help.
+- Traditional photo album: familiar format, but less WhatsApp-native, less preview/edit/approve convenience, and less scalable for repeat memory books.
+
+### Pricing Page
+
+Use claims as "included" items:
+
+- Hardcover binding.
+- Premium printed pages.
+- Personalized title.
+- Preview and edits before print.
+- Professional photobook production.
+
+Avoid durability claims in pricing tables unless a tooltip or note can explain them.
+
+### Examples Page
+
+Use captions:
+
+- "Hardcover family yearbook with personalized title."
+- "Open spread showing premium printed pages."
+- "Close-up placeholder: non-tearable, spill-safe, fade-resistant page sample."
+
+### Help And FAQ
+
+Add FAQ entries:
+
+- Are Snapajoy books hardcover?
+- Can I add a personalized title?
+- Are the pages non-tearable?
+- Are the pages spill-safe?
+- Are the pages fade-resistant?
+- How should I clean or handle the book if something spills?
+
+For spill-safe and non-tearable pages, use careful wording. Do not imply the book is indestructible or waterproof unless Snapajoy confirms that exact level of resistance.
+
 ### Album Sizes
 
 Known planned sizes:
@@ -310,7 +386,7 @@ Answer these before final page copy:
 2. Which of these sizes is the hero or best-selling format?
 3. What is the difference between layflat and absolute layflat in Snapajoy's production process?
 4. What paper GSM and finish can we publish?
-5. Are pages tear-resistant, spill-resistant, or fade-resistant? If not, do not imply it.
+5. Answered: Snapajoy can claim non-tearable, spill-safe, and fade-resistant pages. Use careful wording and do not imply waterproof or indestructible pages.
 6. What print method or print-quality standard can Snapajoy claim?
 7. What is the minimum and maximum page count?
 8. What photo count range should each size support?
@@ -324,11 +400,11 @@ Answer these before final page copy:
 16. Can Snapajoy publicly say "professional photobook production" without naming the vendor?
 17. Do Snapajoy shipments include any authenticity cards, QR codes, or product verification labels? If yes, should the site ignore them or describe them without naming the vendor?
 18. Can Snapajoy claim "wedding-album grade printing" without naming the vendor?
-19. Can Snapajoy claim "premium printed photo books" based on the vendor output and real samples?
+19. Answered: Snapajoy can claim "premium printed photo books" and "professional photobook production" without naming the vendor.
 20. What exactly makes Snapajoy layouts unique: human curation, AI layout, designer templates, occasion themes, photo sequencing, captions, cover design, or all of these?
 21. Which advanced edits does the web editor support: layout changes, page order, captions, cover title, spine title, photo crop, background, theme, stickers, maps, or date labels?
 22. Should the comparison section say "Snapajoy vs ordinary photo books and albums" or "Why Snapajoy is different"?
-23. Can Snapajoy use Whitebook-like claims for non-tearable, spill-safe, fade-resistant pages, or does Canvera/Snapajoy use different paper?
+23. Answered: Snapajoy can use non-tearable, spill-safe, and fade-resistant page claims.
 24. Can Snapajoy offer a reprint, replacement, or refund promise for print defects and delivery damage?
 25. Does Snapajoy include packaging or gift-ready presentation as a standard feature?
 
