@@ -1,0 +1,300 @@
+# Snapajoy Product Content Source
+
+Date: 2026-07-25
+
+Use this file as the product-content source for homepage, photo-book, pricing, help, FAQ, and AI-readable SEO copy. Do not publish exact material, timing, price, warranty, or guarantee claims until Snapajoy confirms them.
+
+## Source References
+
+- User-approved positioning: accessible premium, 60 percent memory keepers and 40 percent urban gifters.
+- User-approved flow: start on WhatsApp, use the web editor for advanced edits.
+- User-approved proof: real printed books with open spreads, preview-before-print, edits, approval before print.
+- Competitive reference checked: `https://whitebook.world/`.
+
+## What Whitebook Covers Well
+
+Whitebook places product details in buyer-friendly chunks:
+
+- Occasion categories near the start: Mother's Day, Father's Day, travel, birthday, pregnancy, baby first year, kids, couple, wedding, anniversary, festivals, and other special moments.
+- Feature story before specs: print clarity, colour quality, page durability, hardcover binding, minimal design, titles and spines.
+- Specs block: sizes, page counts, extra pages, paper finish, designs, and photo capacity.
+- Pricing table: size, base pages, price, extra page cost, and photo range.
+- Delivery block: production time, transit time, tracking, and packaging.
+- Creation flow: upload photos, preview, customise, approve, print, deliver.
+- Comparison section: Whitebook vs photo book vs album.
+- Trust sections: colour guarantee, durability, family use, add-ons, support, packaging, privacy, real reviews.
+- FAQ depth: product definition, why choose it, craft details, delivery, payments, privacy, tracking, cancellation, photo quality, address changes, replacements, complaints, pan-India shipping, packages.
+
+## What Snapajoy Should Borrow Strategically
+
+Borrow the structure, not Whitebook's tone or unsupported claims.
+
+- Add product specs and material information near the quality proof section.
+- Add a clean pricing or format comparison table.
+- Add a direct "photo book vs album" explanation on `photo-books`.
+- Add photo-quality guidance: original photos work best, WhatsApp forwards and screenshots may print softer, preview protects the customer before print.
+- Add delivery and production explanation once timings are confirmed.
+- Add advanced-editing path: start on WhatsApp, then use the web editor for detailed layout, captions, covers, or page edits.
+- Add privacy proof near process and FAQ: photos are used for the order, not marketing, unless the customer gives consent.
+- Add package or repeat-order framing for memory keepers: yearly books, baby-year series, travel shelf, wedding plus anniversary books.
+
+## Product Facts To Confirm
+
+### Album Sizes
+
+Known planned sizes:
+
+- 8x6
+- 8x8
+- 10x10
+
+Need confirmation:
+
+- Are these inches?
+- Portrait, landscape, square, or mixed?
+- Which sizes support layflat?
+- Which sizes support absolute layflat?
+- Which size is the default recommendation for family yearbooks, weddings, baby books, and travel books?
+
+### Binding
+
+Known planned binding terms:
+
+- Layflat
+- Absolute layflat
+
+Need confirmation:
+
+- Plain-language difference between layflat and absolute layflat.
+- Which customer should choose each one.
+- Whether both open completely flat across the center.
+- Whether absolute layflat uses thicker pages or board-mounted pages.
+- Whether layflat affects page count limits.
+
+### Paper Quality
+
+Need confirmation:
+
+- Paper GSM.
+- Finish: matte, silk matte, glossy, lustre, or other.
+- Whether pages are tear-resistant, spill-resistant, water-resistant, fade-resistant, or none of these.
+- Print method.
+- Colour correction or human photo enhancement policy.
+- Whether Snapajoy adjusts dark, blurry, or low-resolution images.
+- Minimum recommended photo resolution.
+
+### Pages And Photo Capacity
+
+Need confirmation:
+
+- Minimum page count.
+- Maximum page count.
+- Default page count per size.
+- Extra page pricing, if any.
+- Recommended photo range per book.
+- Whether collage layouts can increase photo capacity.
+
+### Covers And Personalisation
+
+Need confirmation:
+
+- Cover types.
+- Cover finish.
+- Spine title support.
+- Captions support.
+- Dates, maps, flags, icons, or theme elements.
+- Occasion cover templates.
+- Custom cover support.
+
+### Pricing
+
+Need confirmation:
+
+- Starting price per size and binding.
+- Whether pricing changes by page count, paper, cover, or binding.
+- Whether shipping is included.
+- Whether edits are included.
+- Whether advanced web-editor edits affect price.
+- Payment timing: before design, after first design, after approval, partial payment, or full payment.
+
+### Delivery
+
+Need confirmation:
+
+- Production time after approval.
+- Shipping time.
+- Pan-India coverage.
+- Tracking method.
+- Express option.
+- Packaging details.
+- Replacement policy for print defects or delivery damage.
+
+### Privacy And Consent
+
+Need confirmation:
+
+- Whether customer images are used for marketing only with consent.
+- How long uploaded photos and drafts are retained.
+- How customers can request deletion.
+- Whether editors/support staff can access photos only for order work.
+
+## Recommended Page Placement
+
+### Homepage
+
+Purpose: trust and start.
+
+Use only the strongest details:
+
+- Sizes: show "8x6, 8x8, and 10x10 options" after confirmation.
+- Binding: one short line about layflat and absolute layflat.
+- Quality: one proof-led block with real close-up images.
+- Process: start on WhatsApp, first design, edits, approve, print.
+- Editor: "Want detailed changes? Open the web editor after your first design."
+- FAQ: quality, edits, payment, privacy, delivery.
+
+### Photo Books Page
+
+Purpose: product education and AI-readable entity page.
+
+Add:
+
+- What a Snapajoy photo book is.
+- Size guide: 8x6 vs 8x8 vs 10x10.
+- Binding guide: layflat vs absolute layflat.
+- Paper and print quality.
+- Photo quality guidance.
+- Photo book vs traditional album.
+- Recommended use cases by size.
+- Internal links to pricing, examples, how it works, and gift pages.
+
+### Pricing Page
+
+Purpose: decision support.
+
+Add:
+
+- Pricing table by size and binding once confirmed.
+- What is included: first design, edits, preview, print, delivery, support.
+- Extra page rules.
+- Payment timing.
+- Shipping and delivery notes.
+- Links to photo-books and help.
+
+### Examples Page
+
+Purpose: visual proof.
+
+Add:
+
+- Real open-book examples by use case.
+- Labels for size, binding, and occasion.
+- Before photo set to final book example if available.
+- Alt text with concrete details.
+
+### How It Works Page
+
+Purpose: remove uncertainty.
+
+Add:
+
+- WhatsApp flow.
+- First design in 10 minutes if true.
+- Web editor for advanced changes.
+- Review and edits.
+- Approval before print.
+- Payment timing.
+- Production and delivery.
+
+### Help And FAQ
+
+Purpose: answer long-tail SEO and AI retrieval questions.
+
+Add FAQs for:
+
+- What sizes does Snapajoy offer?
+- What is layflat binding?
+- What is absolute layflat binding?
+- Which size should I choose?
+- How many photos can I include?
+- What photo quality works best?
+- Can I use WhatsApp photos or screenshots?
+- Can I edit the design myself?
+- Do I see the design before print?
+- When do I pay?
+- How long does delivery take?
+- Are my photos private?
+- What happens if the book is damaged?
+
+## Content Cluster Plan
+
+Pillar:
+
+- `/photo-books`: photo books in India, formats, sizes, binding, paper, quality, and use cases.
+
+Core spokes:
+
+- `/pricing`: photo book pricing by size, binding, page count, and delivery.
+- `/how-it-works`: WhatsApp-first creation and web editor for advanced edits.
+- `/examples`: real printed book examples.
+- `/gifts/gifts-for-mom`: gift intent.
+- `/gifts/wedding-gifts`: wedding and anniversary keepsakes.
+- `/gifts/baby-milestone-gifts`: baby year and milestone books.
+- `/gifts/diwali-gifts`: festival gifting.
+- `/help`: FAQ hub.
+
+Internal linking:
+
+- Homepage links to photo-books, pricing, examples, editor, help, and high-value gift pages.
+- Photo-books links to pricing, examples, how-it-works, and all size/binding FAQ sections.
+- Pricing links back to photo-books and how-it-works.
+- Gift pages link to examples, pricing, and relevant format guidance.
+- Help links back to photo-books and how-it-works with descriptive anchors.
+
+## Grill-Me Questions Before Copywriting
+
+Answer these before final page copy:
+
+1. Are 8x6, 8x8, and 10x10 measured in inches?
+2. Which of these sizes is the hero or best-selling format?
+3. What is the difference between layflat and absolute layflat in Snapajoy's production process?
+4. What paper GSM and finish can we publish?
+5. Are pages tear-resistant, spill-resistant, or fade-resistant? If not, do not imply it.
+6. What print method or print-quality standard can Snapajoy claim?
+7. What is the minimum and maximum page count?
+8. What photo count range should each size support?
+9. Is "first design in under 10 minutes" true for all orders or only during support hours?
+10. What delivery timeline can Snapajoy promise after customer approval?
+11. Is shipping pan-India?
+12. Are edits free, limited, or priced after a threshold?
+13. Does the web editor exist at `/editor`, and what actions can customers do there?
+14. When does the customer pay?
+15. Can Snapajoy promise that photos are never used for marketing without consent?
+
+## Draft Product Copy Building Blocks
+
+Use these after facts are confirmed:
+
+### Short Product Definition
+
+Snapajoy turns phone photos into printed photo books for family memories, milestone years, travel, weddings, babies, festivals, and gifts. Start on WhatsApp, review your first design, make edits, and approve before print.
+
+### Size Guide Placeholder
+
+Choose 8x6 for compact stories, 8x8 for balanced family books, and 10x10 for weddings, travel, and larger keepsakes. Replace this with confirmed recommendations before publishing.
+
+### Binding Guide Placeholder
+
+Choose layflat when you want photo spreads to open cleanly across the center. Choose absolute layflat when you want the most premium open-flat feel. Replace this with confirmed production details before publishing.
+
+### Paper Quality Placeholder
+
+Snapajoy photo books use premium printed pages chosen for clean colour, smooth page turns, and everyday family handling. Replace this with confirmed paper GSM, finish, print method, and durability claims before publishing.
+
+### Photo Quality Guidance
+
+Original photos print best. Screenshots, compressed WhatsApp forwards, dark photos, and blurry photos may print softer. Snapajoy shares a preview before print so you can review the design before approval.
+
+### Editor Path
+
+Start on WhatsApp for the guided flow. If you want detailed control over layouts, captions, covers, or page order, use the web editor after your first design.

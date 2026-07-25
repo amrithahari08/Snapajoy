@@ -2,6 +2,8 @@
 
 Date: 2026-07-25
 
+Related content source: `docs/discovery/snapajoy-product-content-source.md`
+
 ## Job And Audience
 
 Redesign the Snapajoy homepage for a 60 percent memory keeper and 40 percent urban gift buyer audience. Memory keepers come back to create family yearbooks, baby books, travel books, and milestone books. Gift buyers need confidence that Snapajoy can create a polished photo book without making them learn a design tool.
@@ -144,6 +146,7 @@ Live `/shipping` and `/refunds` should map to the local shipping and refunds con
 - Do not invent testimonials, delivery guarantees, material specs, or review counts. When needed, add placement text that will be replaced later.
 - Mark image replacement slots clearly for real printed-book assets.
 - Do not invent exact paper GSM, finish, turnaround, or shipping timelines until Snapajoy confirms them. Use replacement-ready placement text for those details.
+- Pull product-size, binding, paper-quality, delivery, payment, privacy, and editor copy from `docs/discovery/snapajoy-product-content-source.md`.
 
 ## States And Responsiveness
 
