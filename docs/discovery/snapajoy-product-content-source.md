@@ -45,14 +45,17 @@ Public copy can use these facts, but phrase price and process copy with "from" a
 Snapajoy can publicly claim:
 
 - The first album/video preview is free.
-- Preferred public framing: "Get a free video feel of your album before you place the order."
+- Preferred public framing: "Get a free video preview of your photo book before you place the order."
 - Customers can change size and page count before confirm and pay.
+- Edits are free before approval.
 - Customers can delete photos anytime by typing "help" in WhatsApp.
 - Snapajoy delivers across India.
 - Books ship in about 1 week after customer approval.
 - Customers receive the book within 2 weeks after customer approval.
+- First design in under 10 minutes is available 24/7.
+- If customers share feedback anytime on WhatsApp, Snapajoy will resolve it.
 
-Use these promises on the homepage, how-it-works page, pricing page, shipping/delivery page, and FAQ. Keep the sequence clear: send photos, choose size and pages, get a free video feel of the album, edit on WhatsApp or web, place the order, approve for print, ship in about 1 week, then receive the book within 2 weeks after approval.
+Use these promises on the homepage, how-it-works page, pricing page, shipping/delivery page, and FAQ. Keep the sequence clear: send photos, choose size and pages, get a free video preview of the photo book, edit on WhatsApp or web, place the order, approve for print, ship in about 1 week, then receive the book within 2 weeks after approval.
 
 ## What Whitebook Covers Well
 
@@ -119,7 +122,7 @@ Do not claim personalized spine text until confirmed. Use "personalized title" f
 Use the claims as trust proof, not as a dense spec block:
 
 - Hero proof pills: "Premium printed photo books", "Preview before print", "Start on WhatsApp".
-- Hero trust line: "Get a free video feel of your album before you place the order."
+- Hero trust line: "Get a free video preview of your photo book before you place the order."
 - Trust strip: "Hardcover binding", "Non-tearable pages", "Spill-safe pages", "Fade-resistant pages".
 - Quality proof section: show real printed-book close-ups with captions for hardcover, page finish, and open spreads.
 - Final CTA/FAQ preview: mention personalized title only if the flow asks for a title before or during design.
@@ -186,7 +189,7 @@ Confirmed sizes:
 Confirmed visual guidance:
 
 - 8 x 6 appears as a landscape book and works well for compact family stories, baby moments, and small gifts.
-- 8 x 8 appears as a square book and works well for balanced family books, travel, and repeat memory books.
+- 8 x 8 appears as a square book and is the hero product. Use it as the recommended/default size for balanced family books, travel, and repeat memory books.
 - 10 x 10 appears as a larger square book and works well for weddings, couple stories, and premium keepsakes.
 - Use the A4 outline from the guide only as a relative size reference, not as a purchasable Snapajoy size unless confirmed later.
 
@@ -255,7 +258,7 @@ Need confirmation:
 
 - Whether pricing changes by page count, paper, cover, or binding.
 - Whether shipping is included.
-- Whether edits are included.
+- Answered: edits are free before approval.
 - Whether advanced web-editor edits affect price.
 - Confirmed public sequence: customers confirm and pay after the free album/video preview and edits.
 - Need confirmation: any exception cases, partial-payment cases, or large-order payment rules.
@@ -272,18 +275,20 @@ Need confirmation:
 
 - Tracking method.
 - Express option.
-- Packaging details.
 - Replacement policy for print defects or delivery damage.
+
+Do not mention packaging for now. Gift-ready packaging is still work in progress.
 
 ### Privacy And Consent
 
 Confirmed:
 
 - Customers can request deletion by typing "help" in chat, as shown in the guide.
+- Snapajoy can say customer photos are never used for marketing without consent.
 
 Need confirmation:
 
-- Whether customer images are used for marketing only with consent.
+- Consent mechanism for marketing use. Define before writing privacy-policy copy.
 - How long uploaded photos and drafts are retained.
 - Whether editors/support staff can access photos only for order work.
 
@@ -298,7 +303,7 @@ Use only the strongest details:
 - Sizes: show "8 x 6, 8 x 8, and 10 x 10 in options" with from-prices where pricing belongs.
 - Binding: one short line about hardcover layflat. Mention absolute layflat only after the production difference is confirmed.
 - Quality: one proof-led block with real close-up images.
-- Process: start on WhatsApp, send photos, get a free video feel of the album, edit, place the order, approve for print.
+- Process: start on WhatsApp, send photos, get a free video preview of the photo book, edit, place the order, approve for print.
 - Delivery: "Ships in about 1 week. Delivered across India within 2 weeks after approval."
 - Editor: "Want detailed changes? Open the web editor after your first design."
 - FAQ: quality, edits, payment, privacy, delivery.
@@ -338,7 +343,7 @@ Suggested rows:
 
 - Creation path: WhatsApp-guided start, web editor for advanced edits.
 - Design quality: unique layout support and human-guided design.
-- Preview: free video feel before order, edits, approve before print.
+- Preview: free video preview before order, free edits before approval, approve before print.
 - Print quality: real printed-book proof, paper/binding details after confirmation.
 - Memory fit: family yearbooks, baby milestones, travel, weddings, festivals.
 - Ease for Indian families: no new app required to start.
@@ -351,7 +356,7 @@ Why choose Snapajoy over an ordinary photo book or album?
 
 Draft answer:
 
-Snapajoy combines the ease of WhatsApp with the finish of a designed photo book. You can send photos, get a free video feel of your album before placing the order, request edits, approve before print, and use the web editor when you want more control. Replace this with final copy after product facts are confirmed.
+Snapajoy combines the ease of WhatsApp with the finish of a designed photo book. You can send photos, get a free video preview of your photo book before placing the order, request free edits before approval, approve before print, and use the web editor when you want more control. Replace this with final copy after product facts are confirmed.
 
 ### Pricing Page
 
@@ -360,7 +365,7 @@ Purpose: decision support.
 Add:
 
 - Pricing table by size: 8 x 6 in from Rs 1250, 8 x 8 in from Rs 1650, and 10 x 10 in from Rs 3250.
-- What is included: free album/video preview, edits before approval, print, delivery, support.
+- What is included: free video preview, free edits before approval, print, delivery, support.
 - Extra page rules.
 - Payment timing.
 - Shipping and delivery notes: ships in about 1 week and delivers across India within 2 weeks after approval.
@@ -384,12 +389,12 @@ Purpose: remove uncertainty.
 Add:
 
 - WhatsApp flow.
-- First design in 10 minutes if true.
+- First design in under 10 minutes, available 24/7.
 - Photo-quality analysis and print-size recommendation.
-- Web editor for advanced changes.
+- Web editor for advanced changes. Competitors do not need to be mirrored with a long editor-feature list; keep the public copy concise unless a page needs product detail.
 - Review and edits.
 - Approval before print.
-- Free video feel of the album before order.
+- Free video preview of the photo book before order.
 - Size and page-count changes before confirm and pay.
 - Confirm and pay after preview and edits.
 - Approval for print.
@@ -411,6 +416,7 @@ Add FAQs for:
 - What photo quality works best?
 - Can I use WhatsApp photos or screenshots?
 - Can I edit the design myself?
+- Are edits free?
 - Do I see the design before print?
 - When do I pay?
 - How long does delivery take?
@@ -418,6 +424,7 @@ Add FAQs for:
 - Are my photos private?
 - How can I delete my photos from Snapajoy?
 - What happens if the book is damaged?
+- How can I share feedback after receiving the book?
 
 ## Content Cluster Plan
 
@@ -451,6 +458,7 @@ Answer these before final page copy:
 1. Are 8x6, 8x8, and 10x10 measured in inches?
    Answered: yes. Use 8 x 6 in, 8 x 8 in, and 10 x 10 in.
 2. Which of these sizes is the hero or best-selling format?
+   Answered: 8 x 8 is the hero product.
 3. What is the difference between layflat and absolute layflat in Snapajoy's production process?
 4. What paper GSM and finish can we publish?
 5. Answered: Snapajoy can claim non-tearable, spill-safe, and fade-resistant pages. Use careful wording and do not imply waterproof or indestructible pages.
@@ -458,15 +466,19 @@ Answer these before final page copy:
 7. What is the minimum and maximum page count?
 8. What photo count range should each size support?
 9. Is "first design in under 10 minutes" true for all orders or only during support hours?
+   Answered: 24/7.
 10. What delivery timeline can Snapajoy promise after customer approval?
     Answered: books ship in about 1 week after customer approval and customers receive the book within 2 weeks after approval.
 11. Is shipping pan-India?
     Answered: yes. Snapajoy can publicly say it delivers across India.
 12. Are edits free, limited, or priced after a threshold?
+    Answered: edits are free before approval. Avoid "unlimited" unless Snapajoy wants to support endless redesign loops.
 13. Does the web editor exist at `/editor`, and what actions can customers do there?
+    Answered: it supports the same broad set of actions as other editors, including layout, page order, captions, cover title, photo crop, background/theme, stickers, maps, and dates. Do not detail every feature in public copy unless needed.
 14. When does the customer pay?
     Answered: customers confirm and pay after the free preview and edits. Confirm only exception cases, partial-payment cases, or large-order rules.
 15. Can Snapajoy promise that photos are never used for marketing without consent?
+    Answered: yes. Need to define the consent mechanism before privacy-policy copy.
 16. Can Snapajoy publicly say "professional photobook production" without naming the vendor?
 17. Do Snapajoy shipments include any authenticity cards, QR codes, or product verification labels? If yes, should the site ignore them or describe them without naming the vendor?
 18. Can Snapajoy claim "wedding-album grade printing" without naming the vendor?
@@ -476,9 +488,11 @@ Answer these before final page copy:
 22. Should the comparison section say "Snapajoy vs ordinary photo books and albums" or "Why Snapajoy is different"?
 23. Answered: Snapajoy can use non-tearable, spill-safe, and fade-resistant page claims.
 24. Can Snapajoy offer a reprint, replacement, or refund promise for print defects and delivery damage?
+    Answered public support wording: "Send your feedback anytime on WhatsApp. We'll resolve it."
 25. Does Snapajoy include packaging or gift-ready presentation as a standard feature?
+    Answered: avoid mentioning packaging for now. It is still work in progress.
 26. Answered: Snapajoy can publicly say the first album/video preview is free.
-    Preferred wording: "Get a free video feel of your album before you place the order."
+    Preferred wording: "Get a free video preview of your photo book before you place the order."
 27. Answered: Snapajoy can publicly say customers can change size and page count before confirm and pay.
 28. Answered: Snapajoy can publicly say customers can delete photos anytime by typing "help" in WhatsApp.
 29. Answered: Snapajoy can publicly say it offers pan-India delivery.
@@ -494,11 +508,11 @@ Snapajoy turns phone photos into printed photo books for family memories, milest
 
 ### Free Preview Promise
 
-Get a free video feel of your album before you place the order. Review the story, layout, and flow, then ask for edits on WhatsApp or continue with advanced edits on the web.
+Get a free video preview of your photo book before you place the order. Review the story, layout, and flow, then ask for free edits on WhatsApp or continue with advanced edits on the web.
 
 ### Size Guide Placeholder
 
-Choose 8 x 6 in for compact stories, 8 x 8 in for balanced family books, and 10 x 10 in for weddings, travel, and larger keepsakes. Prices start from Rs 1250, Rs 1650, and Rs 3250 respectively. Replace use-case recommendations with final merchandising guidance before publishing.
+Choose 8 x 6 in for compact stories, 8 x 8 in for the recommended balanced photo book, and 10 x 10 in for weddings, travel, and larger keepsakes. Prices start from Rs 1250, Rs 1650, and Rs 3250 respectively. Replace use-case recommendations with final merchandising guidance before publishing.
 
 ### Binding Guide Placeholder
 
