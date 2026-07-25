@@ -10,6 +10,7 @@ Use this file as the product-content source for homepage, photo-book, pricing, h
 - User-approved flow: start on WhatsApp, use the web editor for advanced edits.
 - User-approved proof: real printed books with open spreads, preview-before-print, edits, approval before print.
 - Competitive reference checked: `https://whitebook.world/`.
+- Vendor reference checked: `https://canvera.com/`.
 
 ## What Whitebook Covers Well
 
@@ -31,12 +32,27 @@ Borrow the structure, not Whitebook's tone or unsupported claims.
 
 - Add product specs and material information near the quality proof section.
 - Add a clean pricing or format comparison table.
-- Add a direct "photo book vs album" explanation on `photo-books`.
+- Replace a generic "photo book vs album" section with a sharper "Snapajoy vs ordinary photo books and albums" section.
 - Add photo-quality guidance: original photos work best, WhatsApp forwards and screenshots may print softer, preview protects the customer before print.
 - Add delivery and production explanation once timings are confirmed.
 - Add advanced-editing path: start on WhatsApp, then use the web editor for detailed layout, captions, covers, or page edits.
 - Add privacy proof near process and FAQ: photos are used for the order, not marketing, unless the customer gives consent.
 - Add package or repeat-order framing for memory keepers: yearly books, baby-year series, travel shelf, wedding plus anniversary books.
+
+## Vendor Reference: Canvera
+
+Canvera is Snapajoy's vendor. Canvera's public site describes Canvera as a premium wedding album and photobook printing company in India, operating since 2007 and serving professional photographers across India. It also offers product authenticity verification through a product code.
+
+Use this only after Snapajoy confirms how much vendor attribution should appear publicly.
+
+Possible placements:
+
+- Homepage trust strip: "Printed through a professional photobook production partner" if Snapajoy wants a subtle claim.
+- Quality section: "Professional album production quality" with real printed-book close-ups.
+- Help/FAQ: "Who prints Snapajoy books?" if Snapajoy wants transparent vendor disclosure.
+- Product authenticity or support page: only if Snapajoy receives Canvera verification cards/codes in customer shipments.
+
+Do not claim Canvera-specific manufacturing details, cities served, photographer counts, authenticity codes, or Printo ownership on Snapajoy pages unless Snapajoy approves that disclosure.
 
 ## Product Facts To Confirm
 
@@ -164,9 +180,44 @@ Add:
 - Binding guide: layflat vs absolute layflat.
 - Paper and print quality.
 - Photo quality guidance.
-- Photo book vs traditional album.
+- Snapajoy vs ordinary photo books and albums.
 - Recommended use cases by size.
 - Internal links to pricing, examples, how it works, and gift pages.
+
+### Snapajoy Vs Ordinary Photo Books And Albums
+
+Purpose: explain Snapajoy's advantages without attacking other products.
+
+Recommended placement:
+
+- Homepage: short three-column proof row.
+- Photo-books page: full comparison table.
+- Pricing page: short "what is included" comparison.
+
+Suggested comparison columns:
+
+- Snapajoy
+- Ordinary online photo book
+- Traditional photo album
+
+Suggested rows:
+
+- Creation path: WhatsApp-guided start, web editor for advanced edits.
+- Design quality: unique layout support and human-guided design.
+- Preview: first design, edits, approve before print.
+- Print quality: real printed-book proof, paper/binding details after confirmation.
+- Memory fit: family yearbooks, baby milestones, travel, weddings, festivals.
+- Ease for Indian families: no new app required to start.
+- Advanced control: editor available after the guided start.
+- Delivery and support: add confirmed production, delivery, and support details.
+
+Draft section headline:
+
+Why choose Snapajoy over an ordinary photo book or album?
+
+Draft answer:
+
+Snapajoy combines the ease of WhatsApp with the finish of a designed photo book. You can send photos, get a first design, request edits, approve before print, and use the web editor when you want more control. Replace this with final copy after product facts are confirmed.
 
 ### Pricing Page
 
@@ -270,6 +321,16 @@ Answer these before final page copy:
 13. Does the web editor exist at `/editor`, and what actions can customers do there?
 14. When does the customer pay?
 15. Can Snapajoy promise that photos are never used for marketing without consent?
+16. Should Snapajoy publicly mention Canvera as the production vendor?
+17. If yes, should the mention appear on the homepage, quality section, FAQ, or only in help/support pages?
+18. Do Snapajoy shipments include Canvera authenticity cards, QR codes, or product verification labels?
+19. Can Snapajoy claim "professional album production" or "wedding-album grade printing" based on the vendor relationship?
+20. What exactly makes Snapajoy layouts unique: human curation, AI layout, designer templates, occasion themes, photo sequencing, captions, cover design, or all of these?
+21. Which advanced edits does the web editor support: layout changes, page order, captions, cover title, spine title, photo crop, background, theme, stickers, maps, or date labels?
+22. Should the comparison section say "Snapajoy vs ordinary photo books and albums" or "Why Snapajoy is different"?
+23. Can Snapajoy use Whitebook-like claims for non-tearable, spill-safe, fade-resistant pages, or does Canvera/Snapajoy use different paper?
+24. Can Snapajoy offer a reprint, replacement, or refund promise for print defects and delivery damage?
+25. Does Snapajoy include packaging or gift-ready presentation as a standard feature?
 
 ## Draft Product Copy Building Blocks
 
@@ -298,3 +359,7 @@ Original photos print best. Screenshots, compressed WhatsApp forwards, dark phot
 ### Editor Path
 
 Start on WhatsApp for the guided flow. If you want detailed control over layouts, captions, covers, or page order, use the web editor after your first design.
+
+### Comparison Section Placeholder
+
+Snapajoy is for families who want a designed keepsake without starting from a blank editor. Start on WhatsApp, review the first design, request edits, and approve before print. If you want more control, continue in the web editor for advanced changes. Replace with confirmed layout, editor, paper, delivery, and support claims before publishing.
