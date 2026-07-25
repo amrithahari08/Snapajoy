@@ -47,8 +47,10 @@ Snapajoy can publicly claim:
 - The first album/video preview is free.
 - Customers can change size and page count before confirm and pay.
 - Customers can delete photos anytime by typing "help" in WhatsApp.
+- Snapajoy delivers across India.
+- Delivery takes 2 weeks after customer approval.
 
-Use these promises on the homepage, how-it-works page, pricing page, and FAQ. Keep the payment sequence clear: send photos, choose size and pages, review the free preview, edit on WhatsApp or web, then confirm and pay.
+Use these promises on the homepage, how-it-works page, pricing page, shipping/delivery page, and FAQ. Keep the sequence clear: send photos, choose size and pages, review the free preview, edit on WhatsApp or web, confirm and pay, approve for print, then receive the book within 2 weeks after approval.
 
 ## What Whitebook Covers Well
 
@@ -257,11 +259,14 @@ Need confirmation:
 
 ### Delivery
 
+Confirmed:
+
+- Pan-India delivery.
+- Delivery takes 2 weeks after customer approval.
+
 Need confirmation:
 
-- Production time after approval.
-- Shipping time.
-- Pan-India coverage.
+- Whether the 2-week promise includes production and shipping together.
 - Tracking method.
 - Express option.
 - Packaging details.
@@ -291,6 +296,7 @@ Use only the strongest details:
 - Binding: one short line about hardcover layflat. Mention absolute layflat only after the production difference is confirmed.
 - Quality: one proof-led block with real close-up images.
 - Process: start on WhatsApp, send photos, get a free preview, edit, confirm and pay, print.
+- Delivery: "Pan-India delivery in 2 weeks after approval."
 - Editor: "Want detailed changes? Open the web editor after your first design."
 - FAQ: quality, edits, payment, privacy, delivery.
 
@@ -354,7 +360,7 @@ Add:
 - What is included: first design, edits, preview, print, delivery, support.
 - Extra page rules.
 - Payment timing.
-- Shipping and delivery notes.
+- Shipping and delivery notes: pan-India delivery in 2 weeks after approval.
 - Links to photo-books and help.
 
 ### Examples Page
@@ -383,7 +389,8 @@ Add:
 - Free album/video preview before payment.
 - Size and page-count changes before confirm and pay.
 - Confirm and pay after preview and edits.
-- Production and delivery.
+- Approval for print.
+- Pan-India delivery in 2 weeks after approval.
 
 ### Help And FAQ
 
@@ -403,6 +410,7 @@ Add FAQs for:
 - Do I see the design before print?
 - When do I pay?
 - How long does delivery take?
+- Does Snapajoy deliver across India?
 - Are my photos private?
 - How can I delete my photos from Snapajoy?
 - What happens if the book is damaged?
@@ -447,7 +455,9 @@ Answer these before final page copy:
 8. What photo count range should each size support?
 9. Is "first design in under 10 minutes" true for all orders or only during support hours?
 10. What delivery timeline can Snapajoy promise after customer approval?
+    Answered: delivery takes 2 weeks after customer approval.
 11. Is shipping pan-India?
+    Answered: yes. Snapajoy can publicly say it delivers across India.
 12. Are edits free, limited, or priced after a threshold?
 13. Does the web editor exist at `/editor`, and what actions can customers do there?
 14. When does the customer pay?
@@ -466,6 +476,8 @@ Answer these before final page copy:
 26. Answered: Snapajoy can publicly say the first album/video preview is free.
 27. Answered: Snapajoy can publicly say customers can change size and page count before confirm and pay.
 28. Answered: Snapajoy can publicly say customers can delete photos anytime by typing "help" in WhatsApp.
+29. Answered: Snapajoy can publicly say it offers pan-India delivery.
+30. Answered: Snapajoy can publicly say delivery takes 2 weeks after customer approval.
 
 ## Draft Product Copy Building Blocks
 
