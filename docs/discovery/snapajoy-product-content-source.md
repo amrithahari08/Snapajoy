@@ -43,16 +43,16 @@ Borrow the structure, not Whitebook's tone or unsupported claims.
 
 Canvera is Snapajoy's vendor. Canvera's public site describes Canvera as a premium wedding album and photobook printing company in India, operating since 2007 and serving professional photographers across India. It also offers product authenticity verification through a product code.
 
-Use this only after Snapajoy confirms how much vendor attribution should appear publicly.
+Do not mention Canvera publicly on Snapajoy pages.
 
-Possible placements:
+Use vendor information only as internal confidence while writing Snapajoy-owned claims. Public copy may say:
 
-- Homepage trust strip: "Printed through a professional photobook production partner" if Snapajoy wants a subtle claim.
-- Quality section: "Professional album production quality" with real printed-book close-ups.
-- Help/FAQ: "Who prints Snapajoy books?" if Snapajoy wants transparent vendor disclosure.
-- Product authenticity or support page: only if Snapajoy receives Canvera verification cards/codes in customer shipments.
+- Professional photobook production.
+- Premium printed photo books.
+- Quality printing and binding.
+- Real printed-book proof.
 
-Do not claim Canvera-specific manufacturing details, cities served, photographer counts, authenticity codes, or Printo ownership on Snapajoy pages unless Snapajoy approves that disclosure.
+Do not claim Canvera-specific manufacturing details, cities served, photographer counts, authenticity codes, or Printo ownership on Snapajoy pages.
 
 ## Product Facts To Confirm
 
@@ -321,10 +321,10 @@ Answer these before final page copy:
 13. Does the web editor exist at `/editor`, and what actions can customers do there?
 14. When does the customer pay?
 15. Can Snapajoy promise that photos are never used for marketing without consent?
-16. Should Snapajoy publicly mention Canvera as the production vendor?
-17. If yes, should the mention appear on the homepage, quality section, FAQ, or only in help/support pages?
-18. Do Snapajoy shipments include Canvera authenticity cards, QR codes, or product verification labels?
-19. Can Snapajoy claim "professional album production" or "wedding-album grade printing" based on the vendor relationship?
+16. Can Snapajoy publicly say "professional photobook production" without naming the vendor?
+17. Do Snapajoy shipments include any authenticity cards, QR codes, or product verification labels? If yes, should the site ignore them or describe them without naming the vendor?
+18. Can Snapajoy claim "wedding-album grade printing" without naming the vendor?
+19. Can Snapajoy claim "premium printed photo books" based on the vendor output and real samples?
 20. What exactly makes Snapajoy layouts unique: human curation, AI layout, designer templates, occasion themes, photo sequencing, captions, cover design, or all of these?
 21. Which advanced edits does the web editor support: layout changes, page order, captions, cover title, spine title, photo crop, background, theme, stickers, maps, or date labels?
 22. Should the comparison section say "Snapajoy vs ordinary photo books and albums" or "Why Snapajoy is different"?
