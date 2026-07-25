@@ -11,6 +11,34 @@ Use this file as the product-content source for homepage, photo-book, pricing, h
 - User-approved proof: real printed books with open spreads, preview-before-print, edits, approval before print.
 - Competitive reference checked: `https://whitebook.world/`.
 - Vendor reference checked: `https://canvera.com/`.
+- User-provided Snapajoy visual source: `D:\work\snapajoy\whatsapp flow\images\Final.png`.
+
+## User-Provided Photobook Guide Source
+
+Use `D:\work\snapajoy\whatsapp flow\images\Final.png` as an internal source for current Snapajoy size, price, process, and visual placement decisions.
+
+Confirmed from the guide:
+
+- Guide title: "snapajoy Photobook Guide".
+- Sizes and starting prices:
+  - 8 x 6 in: from Rs 1250.
+  - 8 x 8 in: from Rs 1650.
+  - 10 x 10 in: from Rs 3250.
+- The guide uses an A4 outline only as a size reference.
+- Product format shown: hardcover layflat photo books.
+- Cover examples show personalized titles: "Turing One", "luxembourg trip", and "together forever".
+- Open-spread proof should show a real printed layflat book with family/travel photos.
+- Customer flow:
+  - You send photos.
+  - Snapajoy analyzes photo quality and recommends print size.
+  - Customer chooses size and pages, with changes allowed before final confirmation.
+  - Snapajoy builds the story, crops, arranges, and lays out the book.
+  - Customer receives a free album/video preview.
+  - Customer can edit on WhatsApp and use advanced web edits.
+  - Customer confirms and pays after preview and edits.
+- Privacy/support note shown in the guide: "Delete your photos anytime - type 'help' in chat".
+
+Public copy can use these facts, but phrase price and process copy with "from" and "before final confirmation" so the website does not overpromise edge cases.
 
 ## What Whitebook Covers Well
 
@@ -134,25 +162,27 @@ For spill-safe and non-tearable pages, use careful wording. Do not imply the boo
 
 ### Album Sizes
 
-Known planned sizes:
+Confirmed sizes:
 
-- 8x6
-- 8x8
-- 10x10
+- 8 x 6 in, from Rs 1250.
+- 8 x 8 in, from Rs 1650.
+- 10 x 10 in, from Rs 3250.
 
-Need confirmation:
+Confirmed visual guidance:
 
-- Are these inches?
-- Portrait, landscape, square, or mixed?
-- Which sizes support layflat?
-- Which sizes support absolute layflat?
-- Which size is the default recommendation for family yearbooks, weddings, baby books, and travel books?
+- 8 x 6 appears as a landscape book and works well for compact family stories, baby moments, and small gifts.
+- 8 x 8 appears as a square book and works well for balanced family books, travel, and repeat memory books.
+- 10 x 10 appears as a larger square book and works well for weddings, couple stories, and premium keepsakes.
+- Use the A4 outline from the guide only as a relative size reference, not as a purchasable Snapajoy size unless confirmed later.
 
 ### Binding
 
-Known planned binding terms:
+Confirmed binding term:
 
-- Layflat
+- Hardcover layflat.
+
+Known planned binding term:
+
 - Absolute layflat
 
 Need confirmation:
@@ -200,14 +230,19 @@ Need confirmation:
 
 ### Pricing
 
+Confirmed starting prices:
+
+- 8 x 6 in starts from Rs 1250.
+- 8 x 8 in starts from Rs 1650.
+- 10 x 10 in starts from Rs 3250.
+
 Need confirmation:
 
-- Starting price per size and binding.
 - Whether pricing changes by page count, paper, cover, or binding.
 - Whether shipping is included.
 - Whether edits are included.
 - Whether advanced web-editor edits affect price.
-- Payment timing: before design, after first design, after approval, partial payment, or full payment.
+- Exact payment timing and any exception cases. The guide shows confirm and pay after free album/video preview and edits.
 
 ### Delivery
 
@@ -223,11 +258,14 @@ Need confirmation:
 
 ### Privacy And Consent
 
+Confirmed:
+
+- Customers can request deletion by typing "help" in chat, as shown in the guide.
+
 Need confirmation:
 
 - Whether customer images are used for marketing only with consent.
 - How long uploaded photos and drafts are retained.
-- How customers can request deletion.
 - Whether editors/support staff can access photos only for order work.
 
 ## Recommended Page Placement
@@ -238,10 +276,10 @@ Purpose: trust and start.
 
 Use only the strongest details:
 
-- Sizes: show "8x6, 8x8, and 10x10 options" after confirmation.
-- Binding: one short line about layflat and absolute layflat.
+- Sizes: show "8 x 6, 8 x 8, and 10 x 10 in options" with from-prices where pricing belongs.
+- Binding: one short line about hardcover layflat. Mention absolute layflat only after the production difference is confirmed.
 - Quality: one proof-led block with real close-up images.
-- Process: start on WhatsApp, first design, edits, approve, print.
+- Process: start on WhatsApp, send photos, get a free preview, edit, confirm and pay, print.
 - Editor: "Want detailed changes? Open the web editor after your first design."
 - FAQ: quality, edits, payment, privacy, delivery.
 
@@ -252,7 +290,7 @@ Purpose: product education and AI-readable entity page.
 Add:
 
 - What a Snapajoy photo book is.
-- Size guide: 8x6 vs 8x8 vs 10x10.
+- Size guide: 8 x 6 vs 8 x 8 vs 10 x 10.
 - Binding guide: layflat vs absolute layflat.
 - Paper and print quality.
 - Photo quality guidance.
@@ -301,7 +339,7 @@ Purpose: decision support.
 
 Add:
 
-- Pricing table by size and binding once confirmed.
+- Pricing table by size: 8 x 6 in from Rs 1250, 8 x 8 in from Rs 1650, and 10 x 10 in from Rs 3250.
 - What is included: first design, edits, preview, print, delivery, support.
 - Extra page rules.
 - Payment timing.
@@ -327,10 +365,11 @@ Add:
 
 - WhatsApp flow.
 - First design in 10 minutes if true.
+- Photo-quality analysis and print-size recommendation.
 - Web editor for advanced changes.
 - Review and edits.
 - Approval before print.
-- Payment timing.
+- Confirm and pay after preview and edits, with exception details if any.
 - Production and delivery.
 
 ### Help And FAQ
@@ -343,6 +382,7 @@ Add FAQs for:
 - What is layflat binding?
 - What is absolute layflat binding?
 - Which size should I choose?
+- How does Snapajoy recommend a print size?
 - How many photos can I include?
 - What photo quality works best?
 - Can I use WhatsApp photos or screenshots?
@@ -351,6 +391,7 @@ Add FAQs for:
 - When do I pay?
 - How long does delivery take?
 - Are my photos private?
+- How can I delete my photos from Snapajoy?
 - What happens if the book is damaged?
 
 ## Content Cluster Plan
@@ -383,6 +424,7 @@ Internal linking:
 Answer these before final page copy:
 
 1. Are 8x6, 8x8, and 10x10 measured in inches?
+   Answered: yes. Use 8 x 6 in, 8 x 8 in, and 10 x 10 in.
 2. Which of these sizes is the hero or best-selling format?
 3. What is the difference between layflat and absolute layflat in Snapajoy's production process?
 4. What paper GSM and finish can we publish?
@@ -396,6 +438,7 @@ Answer these before final page copy:
 12. Are edits free, limited, or priced after a threshold?
 13. Does the web editor exist at `/editor`, and what actions can customers do there?
 14. When does the customer pay?
+    Partially answered: the guide shows confirm and pay after the free preview and edits. Confirm exception cases before writing payment-policy copy.
 15. Can Snapajoy promise that photos are never used for marketing without consent?
 16. Can Snapajoy publicly say "professional photobook production" without naming the vendor?
 17. Do Snapajoy shipments include any authenticity cards, QR codes, or product verification labels? If yes, should the site ignore them or describe them without naming the vendor?
@@ -418,11 +461,11 @@ Snapajoy turns phone photos into printed photo books for family memories, milest
 
 ### Size Guide Placeholder
 
-Choose 8x6 for compact stories, 8x8 for balanced family books, and 10x10 for weddings, travel, and larger keepsakes. Replace this with confirmed recommendations before publishing.
+Choose 8 x 6 in for compact stories, 8 x 8 in for balanced family books, and 10 x 10 in for weddings, travel, and larger keepsakes. Prices start from Rs 1250, Rs 1650, and Rs 3250 respectively. Replace use-case recommendations with final merchandising guidance before publishing.
 
 ### Binding Guide Placeholder
 
-Choose layflat when you want photo spreads to open cleanly across the center. Choose absolute layflat when you want the most premium open-flat feel. Replace this with confirmed production details before publishing.
+Choose hardcover layflat when you want photo spreads to open cleanly across the center. Explain absolute layflat only after Snapajoy confirms how it differs from layflat.
 
 ### Paper Quality Placeholder
 
