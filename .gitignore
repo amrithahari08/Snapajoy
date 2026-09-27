@@ -1,0 +1,6 @@
+.superpowers/
+server.*.log
+tools/workbook-build/node_modules/
+tools/**/__pycache__/
+outputs/**/previews/
+outputs/**/*.inspect.ndjson
