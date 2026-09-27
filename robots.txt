@@ -1,29 +1,6 @@
-﻿# Snapajoy pre-launch crawl policy: restrictive allowlist mode
-# Blocks all crawlers by default and selectively allows review-approved bots.
+# Snapajoy crawl policy
 
 User-agent: *
-Disallow: /
-
-User-agent: Googlebot
 Allow: /
 
-User-agent: Bingbot
-Allow: /
-
-User-agent: OAI-SearchBot
-Allow: /
-
-User-agent: GPTBot
-Disallow: /
-
-User-agent: ClaudeBot
-Disallow: /
-
-User-agent: Google-Extended
-Disallow: /
-
-# Stage-2 candidate, currently blocked pending log review.
-User-agent: PerplexityBot
-Disallow: /
-
-Sitemap: https://www.snapajoy.in/sitemap.xml
+Sitemap: https://www.snapajoy.com/sitemap.xml

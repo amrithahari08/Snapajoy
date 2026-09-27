@@ -1,23 +1,45 @@
-﻿# Snapajoy llms.txt (experimental, non-authoritative)
+# Snapajoy
 
-[project]
-name = "Snapajoy"
-url = "https://www.snapajoy.in/"
-description = "India-first WhatsApp-first photobook service with preview-before-print workflow."
+> Snapajoy helps customers in India design premium photo books through WhatsApp, review a free video preview, request free edits before approval, and use a web editor for advanced changes.
 
-[preferred_urls]
-homepage = "https://www.snapajoy.in/"
-plans = "https://www.snapajoy.in/#plans"
-how_it_works = "https://www.snapajoy.in/#how"
-faq = "https://www.snapajoy.in/#faq"
-help = "https://www.snapajoy.in/help.html"
-shipping_delivery = "https://www.snapajoy.in/shipping-delivery.html"
-refunds_replacements = "https://www.snapajoy.in/refunds-replacements.html"
-privacy = "https://www.snapajoy.in/privacy.html"
-contact = "https://www.snapajoy.in/contact.html"
-offers = "https://www.snapajoy.in/offers.html"
+## Preferred URLs
 
-[notes]
-- Primary user action: Start on WhatsApp.
-- Core promise: Preview before print and private-by-default handling.
-- Pricing values may change by bundle and seasonal updates.
+- Homepage: https://www.snapajoy.com/
+- Photo books: https://www.snapajoy.com/photo-books
+- How it works: https://www.snapajoy.com/how-it-works
+- Pricing: https://www.snapajoy.com/pricing
+- Examples: https://www.snapajoy.com/examples
+- Stories: https://www.snapajoy.com/reviews
+- Web editor: https://www.snapajoy.com/editor
+- Help: https://www.snapajoy.com/help
+- Shipping: https://www.snapajoy.com/shipping
+- Refunds and replacements: https://www.snapajoy.com/refunds
+- Privacy: https://www.snapajoy.com/privacy
+- Contact: https://www.snapajoy.com/contact
+
+## Product Facts
+
+- Primary product name: photo book.
+- Related terms: photo album, family album, WhatsApp photo album, and album-style photo book.
+- Formats: 8 x 6 in from Rs 1250, 8 x 8 in from Rs 1650, and 10 x 10 in from Rs 3250.
+- Recommended format: 8 x 8 in.
+- Binding: hardcover layflat.
+- Pages: premium printed pages made to resist everyday spills, fading, and tearing.
+- Personalization: personalized cover title.
+
+## Ordering And Editing
+
+- Customers start on WhatsApp.
+- The first design is available in under 10 minutes, 24/7.
+- Customers receive a free video preview before placing the order.
+- Edits are free before approval.
+- Customers can use the web editor for advanced changes.
+- Printing starts only after approval.
+
+## Delivery, Support And Privacy
+
+- Photo books ship in about 1 week after approval.
+- Delivery is available across India within 2 weeks after approval.
+- Customers can send feedback anytime on WhatsApp.
+- Snapajoy does not use customer photos for marketing without consent.
+- Customers can request photo deletion by typing help in the WhatsApp chat.
